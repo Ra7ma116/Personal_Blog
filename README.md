@@ -44,7 +44,7 @@ npm start
 ```bash
 Visit http://localhost:3000 in your browser
 ```
-Project Structure
+## Project Structure
 Personal_Blog/
 ├── src/
 │   ├── components/
