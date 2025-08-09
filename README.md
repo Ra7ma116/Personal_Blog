@@ -45,7 +45,8 @@ npm start
 Visit http://localhost:3000 in your browser
 ```
 ## 📂Project Structure
-### Personal_Blog/
+```
+Personal_Blog/
 ├── src/
 │   ├── components/
 │   │   ├── BlogPostsGrid.js
@@ -59,6 +60,7 @@ Visit http://localhost:3000 in your browser
 ├── public/
 ├── package.json
 └── README.md
+```
 
 ## 🎨Customization
 ### Changing Content
